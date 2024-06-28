@@ -206,16 +206,15 @@ end of  style
   display: flex;
   align-items: center;
   justify-content: center;
+     /* header fixed */
+	  background:white;
+  width: 100vw;
+  height:29px;
+  position: fixed;
+ z-index: 10000;
 }
 
 .nav-container{
-  /* /* header fixed  
-  height:29px;
-  position: fixed;
- z-index: 10000;*/
-
-
-
   width: 92vw;
   max-width: var(--max-width);
 }
