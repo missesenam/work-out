@@ -314,7 +314,7 @@ main{
   width: 90vw;
   max-width: var(--max-width);
   margin: 0 auto;
-  padding-top: 2rem;
+  padding-top: 5rem;
   min-height: calc(100vh - (4rem + 9rem));
 }
 @media screen and (min-width:802px) {
